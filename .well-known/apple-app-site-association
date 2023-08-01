@@ -3,7 +3,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "3UQDRQUZL6.com.test.ultest", "3UQDRQUZL6.com.test.ultest2" ],
+             "appIDs": [ "3UQDRQUZL6.com.test.ultest", "GE699S3CV2.com.test.ultest" ],
              "components": [
                {
                   "#": "no_universal_links",
