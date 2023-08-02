@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "GE699S3CV2.com.test.ultest",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
